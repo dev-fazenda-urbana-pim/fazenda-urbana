@@ -76,10 +76,12 @@ Nosso objetivo é promover a consciência ambiental, incentivar a autossuficiên
 
 ## Equipe
 
-- **Product Owner:** [Gabriel Celestino Pereira](https://github.com/GabrielPjd3v)
+- **Product Owner:** [Matheus Brandão](https://github.com/Matheuusbrandao)
+
 - **Scrum Master:** [Matheus Aurélio Pontes Ferreira](https://github.com/Matheus2004a)
+
 - **Dev Team:**
-  - [Matheus Brandão](https://github.com/Matheuusbrandao)
+  - [Gabriel Celestino Pereira](https://github.com/GabrielPjd3v)
   - [Cauã de Andrade Campos](https://github.com/Cauaandrade1)
   - [Mateus Mancio Almeida](https://github.com/mateusalmeida1)
   - [Matheus Magalhaes](https://github.com/mathmagalhaes)
